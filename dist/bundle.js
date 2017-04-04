@@ -2026,7 +2026,7 @@ exports = module.exports = __webpack_require__(5)(undefined);
 
 
 // module
-exports.push([module.i, "body {\n  background-color: #87D69B;\n  color: #4E9689; }\n  body h1 {\n    color: #C3FF68; }\n", ""]);
+exports.push([module.i, "body {\n  background-color: #87D69B;\n  color: #4E9689; }\n\nh1 {\n  color: #C3FF68; }\n\n.div {\n  border: solid #F4FCE8 5px;\n  float: left;\n  list-style: none; }\n", ""]);
 
 // exports
 

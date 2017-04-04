@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tylerbyte-tiy/wiki-website/issues"
   },
-  "homepage": "https://github.com/tylerbyte-tiy/wiki-website#readme"
+  "homepage": "https://github.com/tylerbyte-tiy/wiki-website#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "webpack": "^2.3.3"
+  }
 }
